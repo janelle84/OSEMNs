@@ -1,6 +1,6 @@
 # OSEMN Projects Repository
 
-Welcome to the **OSEMN Projects Repository**! This collection is dedicated to projects that follow the **OSEMN Data Science Framework**: **O**btain, **S**crub, **E**xplore, **M**odel, and **I**nterpret.
+Welcome to the **OSEMN Projects Repository**! This collection is dedicated to projects that follow the **OSEMN Data Science Framework**: **O**btain, **S**crub, **E**xplore, **M**odel, and i**N**terpret.
 
 ## About
 
